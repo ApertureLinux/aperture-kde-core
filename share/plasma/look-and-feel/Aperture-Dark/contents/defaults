@@ -25,3 +25,7 @@ library=org.kde.breeze
 
 [KSplash]
 Theme=org.kde.Breeze
+
+[kdeglobals][Icons]
+Theme=breeze-dark
+
