@@ -20,12 +20,6 @@ theme=Breeze
 [plasmarc][Theme]
 name=Aperture-Dark
 
-[kdeglobals][Icons]
-Theme=papirus-green
-
-[Wallpaper]
-Image=Next
-
 [kwinrc][org.kde.kdecoration2]
 library=org.kde.breeze
 

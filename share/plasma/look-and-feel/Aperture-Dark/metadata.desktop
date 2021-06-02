@@ -1,12 +1,17 @@
 [Desktop Entry]
 Comment=Aperture Kde Theme
-Name=Aperture Dark
+Name=Aperture Dark Three
+
+Type=Service
+
 X-KDE-PluginInfo-Author=Zosman
 X-KDE-PluginInfo-Category=Plasma Look And Feel
 X-KDE-PluginInfo-Email=zosman@aperturelinux.org
 X-KDE-PluginInfo-EnabledByDefault=true
-X-KDE-PluginInfo-License=GPL 2+
-X-KDE-PluginInfo-Name=org.aperturelinux.kde.aperture-dark
+X-KDE-PluginInfo-License=GPLv2+
+X-KDE-PluginInfo-Name=com.github.aperturelinux.aperture-dark
+X-KDE-fallbackPackage=org.kde.breezedark.desktop
 X-KDE-PluginInfo-Version=0.1
-X-KDE-PluginInfo-Website=aperturelinux.org
+X-KDE-PluginInfo-Website=https://aperturelinux.org
 X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-Plasma-MainScript=defaults
